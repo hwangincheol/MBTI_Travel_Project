@@ -1,4 +1,4 @@
-![슬라이드9](https://github.com/user-attachments/assets/f2817dd2-b194-48c2-8369-495234b837bc)# MBTI 유형별 여행지 추천 사이트 (팀 프로젝트)
+# MBTI 유형별 여행지 추천 사이트 (팀 프로젝트)
 ![슬라이드3](https://github.com/user-attachments/assets/b356f362-ec4d-4748-a8d8-dc004088af3e)
 <br>
 
